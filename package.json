@@ -1,0 +1,17 @@
+{
+  "name": "helloworld",
+  "version": "0.0.3",
+  "type": "module",
+  "devDependencies": {
+    "vite": "^6.2.4"
+  },
+  "dependencies": {
+    "@tweenjs/tween.js": "^25.0.0",
+    "three": "^0.175.0"
+  },
+  "scripts": {
+    "dev": "vite",
+    "preview": "vite preview",
+    "build": "vite build"
+  }
+}
